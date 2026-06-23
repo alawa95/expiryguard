@@ -1,6 +1,9 @@
 # Dependencies
 node_modules/
 
+# Backend — déployé séparément sur Render/Railway, pas sur Vercel
+backend/
+
 # Build output
 dist/
 dist-ssr/
